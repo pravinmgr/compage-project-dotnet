@@ -1,0 +1,264 @@
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.csproj.AssemblyReference.cache
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.AssemblyInfoInputs.cache
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.AssemblyInfo.cs
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.csproj.CoreCompileInputs.cache
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\appsettings.Development.json
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\appsettings.json
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.exe
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.deps.json
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.runtimeconfig.json
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.pdb
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\AutoMapper.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\MediatR.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Application.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Core.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Infrastructure.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Application.pdb
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Infrastructure.pdb
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Core.pdb
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.ProcurementManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.ProcurementManagement.props
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProcurementManagement.props
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProcurementManagement.props
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets.build.json
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets.development.json
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\scopedcss\bundle\ProcurementManagement.styles.css
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.csproj.CopyComplete
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\refint\ProcurementManagement.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.pdb
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.genruntimeconfig.cache
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ref\ProcurementManagement.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Azure.Core.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Azure.Identity.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Memory.Data.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Humanizer.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.CodeDom.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\appsettings.Development.json
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\appsettings.json
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.exe
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.deps.json
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.runtimeconfig.json
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.pdb
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\AutoMapper.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Azure.Core.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Azure.Identity.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Humanizer.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\MediatR.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.CodeDom.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Memory.Data.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Application.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Core.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Infrastructure.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Application.pdb
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Infrastructure.pdb
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Core.pdb
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.csproj.AssemblyReference.cache
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.AssemblyInfoInputs.cache
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.AssemblyInfo.cs
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.csproj.CoreCompileInputs.cache
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.ProcurementManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.ProcurementManagement.props
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProcurementManagement.props
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProcurementManagement.props
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets.build.json
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets.development.json
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\scopedcss\bundle\ProcurementManagement.styles.css
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.csproj.CopyComplete
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\refint\ProcurementManagement.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.pdb
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.genruntimeconfig.cache
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ref\ProcurementManagement.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.csproj.AssemblyReference.cache
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.AssemblyInfoInputs.cache
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.AssemblyInfo.cs
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.csproj.CoreCompileInputs.cache
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\refint\ProcurementManagement.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.pdb
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\appsettings.Development.json
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\appsettings.json
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.exe
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.deps.json
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.runtimeconfig.json
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\ProcurementManagement.pdb
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\AutoMapper.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Azure.Core.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Azure.Identity.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Humanizer.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\MediatR.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.CodeDom.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Application.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Core.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Infrastructure.dll
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Application.pdb
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Infrastructure.pdb
+D:\Compage Template\ProcurementManagement\ProcurementManagement\bin\Debug\net7.0\Procurement.Core.pdb
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.ProcurementManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.ProcurementManagement.props
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProcurementManagement.props
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProcurementManagement.props
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets.build.json
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\staticwebassets.development.json
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\scopedcss\bundle\ProcurementManagement.styles.css
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.csproj.CopyComplete
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ProcurementManagement.genruntimeconfig.cache
+D:\Compage Template\ProcurementManagement\ProcurementManagement\obj\Debug\net7.0\ref\ProcurementManagement.dll

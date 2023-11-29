@@ -1,0 +1,45 @@
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.csproj.AssemblyReference.cache
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.AssemblyInfoInputs.cache
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.AssemblyInfo.cs
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.csproj.CoreCompileInputs.cache
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Application.deps.json
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Application.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Application.pdb
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Core.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Core.pdb
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.csproj.CopyComplete
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\refint\Procurement.Application.dll
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.pdb
+D:\AbilityFix- Email\Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\ref\Procurement.Application.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Application.deps.json
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Application.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Application.pdb
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Core.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Core.pdb
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.csproj.AssemblyReference.cache
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.AssemblyInfoInputs.cache
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.AssemblyInfo.cs
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.csproj.CoreCompileInputs.cache
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.csproj.CopyComplete
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\refint\Procurement.Application.dll
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.pdb
+D:\AbilityFix- Email\Template\New folder (3)\New folder (2)\ProcurementManagement - Final 01112023\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\ref\Procurement.Application.dll
+D:\Compage Template\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Application.deps.json
+D:\Compage Template\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Application.dll
+D:\Compage Template\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Application.pdb
+D:\Compage Template\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Core.dll
+D:\Compage Template\ProcurementManagement\Procurement.Application\bin\Debug\net7.0\Procurement.Core.pdb
+D:\Compage Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.csproj.AssemblyReference.cache
+D:\Compage Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Compage Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.AssemblyInfoInputs.cache
+D:\Compage Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.AssemblyInfo.cs
+D:\Compage Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.csproj.CoreCompileInputs.cache
+D:\Compage Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.csproj.CopyComplete
+D:\Compage Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.dll
+D:\Compage Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\refint\Procurement.Application.dll
+D:\Compage Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\Procurement.Application.pdb
+D:\Compage Template\ProcurementManagement\Procurement.Application\obj\Debug\net7.0\ref\Procurement.Application.dll
