@@ -35,7 +35,7 @@ namespace Procurement.Application.Tests.Handlers.OrderService
 
             _orderRepository
                .Setup(r => r.GetByIdAsync(Id))
-                .ReturnsAsync((Order)null); // Mock the repository to return null
+                .ReturnsAsync((Order)null!); // Mock the repository to return null
 
             var handler = new UpdateOrderCommandHandler(_orderRepository.Object, _mapper.Object, _logger.Object);
 

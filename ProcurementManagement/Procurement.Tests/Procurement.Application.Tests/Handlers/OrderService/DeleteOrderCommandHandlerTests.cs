@@ -30,7 +30,7 @@ namespace Procurement.Application.Tests.Handlers.OrderService
 
             _orderRepository
                 .Setup(r => r.GetByIdAsync(Id))
-                .ReturnsAsync((Order)null); // Mock the repository to return null
+                .ReturnsAsync((Order)null!); // Mock the repository to return null
 
             var handler = new DeleteOrderCommandHandler(_orderRepository.Object, _logger.Object);
 

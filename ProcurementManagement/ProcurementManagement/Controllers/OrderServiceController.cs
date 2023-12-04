@@ -35,6 +35,7 @@ namespace ProcurementManagement.Controllers
         [ProducesResponseType((int)HttpStatusCode.NotFound)]
         public async Task<ActionResult<OrderResponse>> GetOrderById(int id, CancellationToken cancellationToken)
         {
+            _logger.LogInformation("Order GET request received for ID {id}", id);
             var response = await _mediator.Send(new GetOrderByIdQuery(id), cancellationToken);
             return Ok(response);
         }
@@ -64,6 +65,7 @@ namespace ProcurementManagement.Controllers
         [ProducesDefaultResponseType]
         public async Task<ActionResult> DeleteOrder(int id)
         {
+            _logger.LogInformation("Order DELETE request received for ID {id}", id);
             var cmd = new DeleteOrderCommand() { Id = id };
             await _mediator.Send(cmd);
             return NoContent();

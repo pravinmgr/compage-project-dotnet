@@ -28,7 +28,7 @@ namespace Procurement.Application.Handlers.OrderService
             }
 
             await _orderRepository.DeleteAsync(orderToDelete);
-            _logger.LogInformation($"order with Id {request.Id} is deleted successfully.");
+            _logger.LogInformation("order with Id {request.Id} is deleted successfully.", request.Id);
         }
     }
 }

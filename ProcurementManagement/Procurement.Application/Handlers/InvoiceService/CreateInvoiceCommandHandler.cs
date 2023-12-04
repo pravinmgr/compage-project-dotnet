@@ -23,11 +23,8 @@ namespace Procurement.Application.Handlers.InvoiceService
         public async Task<int> Handle(CreateInvoiceCommand request, CancellationToken cancellationToken)
         {
             var orderEntity = _mapper.Map<Invoice>(request);
-
-            /*****************************************************************************/
             var generatedOrder = await _invoiceRepository.AddAsync(orderEntity);
-            /*****************************************************************************/
-            _logger.LogInformation($" {generatedOrder} successfully created.");
+           _logger.LogInformation(" {generatedOrder} successfully created.", generatedOrder);
             return generatedOrder.Id;
         }
     }

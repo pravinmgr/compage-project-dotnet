@@ -11,11 +11,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-/********************************************************************************************************/
+/***************************************** Profile Mapping  ***************************************************************/
 builder.Services.AddAutoMapper(typeof(ProcurementMappingProfile));
 builder.Services.AddApplicationServices();
 builder.Services.AddInfrastructureServices(builder.Configuration);
-/********************************************************************************************************/
+/******************************************Profile Mapping **************************************************************/
 
 
 var app = builder.Build();

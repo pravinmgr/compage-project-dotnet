@@ -23,11 +23,8 @@ namespace Procurement.Application.Handlers.OrderService
         public async Task<int> Handle(CreateOrderCommand request, CancellationToken cancellationToken)
         {
             var orderEntity = _mapper.Map<Order>(request);
-
-            /*****************************************************************************/
             var generatedOrder = await _orderRepository.AddAsync(orderEntity);
-            /*****************************************************************************/
-            _logger.LogInformation($" {generatedOrder} successfully created.");
+            _logger.LogInformation(" {generatedOrder} successfully created.", generatedOrder);
             return generatedOrder.Id;
         }
     }

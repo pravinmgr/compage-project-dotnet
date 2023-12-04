@@ -28,7 +28,7 @@ namespace Procurement.Application.Handlers.InvoiceService
             }
 
             await _invoiceRepository.DeleteAsync(orderToDelete);
-            _logger.LogInformation($"invoice with Id {request.Id} is deleted successfully.");
+            _logger.LogInformation("invoice with Id {request.Id} is deleted successfully.", request.Id);
         }
     }
 }

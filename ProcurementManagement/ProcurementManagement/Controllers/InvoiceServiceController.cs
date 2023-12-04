@@ -24,7 +24,6 @@ namespace ProcurementManagement.Controllers
         [ProducesResponseType(typeof(IEnumerable<List<InvoiceResponse>>), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<List<InvoiceResponse>>> GetAllInvoice(CancellationToken cancellationToken)
         {
-
             var response = await _mediator.Send(new GetAllInvoiceQuery(), cancellationToken);
             return Ok(response);
         }
@@ -35,6 +34,7 @@ namespace ProcurementManagement.Controllers
         [ProducesResponseType((int)HttpStatusCode.NotFound)]
         public async Task<ActionResult<InvoiceResponse>> GetInvoiceById(int id, CancellationToken cancellationToken)
         {
+            _logger.LogInformation("Invoice GET request received for ID {id}", id);
             var response = await _mediator.Send(new GetInvoiceByIdQuery(id), cancellationToken);
             return Ok(response);
         }
@@ -43,7 +43,7 @@ namespace ProcurementManagement.Controllers
         [HttpPost(Name = "CreateInvoice")]
         [ProducesResponseType((int)HttpStatusCode.OK)]
         public async Task<ActionResult<int>> CreateInvoice([FromBody] CreateInvoiceCommand command)
-        {
+        {          
             var result = await _mediator.Send(command);
             return Ok(result);
         }
@@ -64,6 +64,7 @@ namespace ProcurementManagement.Controllers
         [ProducesDefaultResponseType]
         public async Task<ActionResult> DeleteInvoice(int id)
         {
+            _logger.LogInformation("Invoice DELETE request received for ID {id}", id);
             var cmd = new DeleteInvoiceCommand() { Id = id };
             await _mediator.Send(cmd);
             return NoContent();

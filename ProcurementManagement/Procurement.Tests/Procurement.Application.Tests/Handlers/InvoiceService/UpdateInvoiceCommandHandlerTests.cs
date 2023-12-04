@@ -35,7 +35,7 @@ namespace Procurement.Application.Tests.Handlers.InvoiceService
 
             _invoiceRepository
                .Setup(r => r.GetByIdAsync(Id))
-                .ReturnsAsync((Invoice)null); // Mock the repository to return null
+                .ReturnsAsync((Invoice)null!); // Mock the repository to return null
 
             var handler = new UpdateInvoiceCommandHandler(_invoiceRepository.Object, _mapper.Object, _logger.Object);
 

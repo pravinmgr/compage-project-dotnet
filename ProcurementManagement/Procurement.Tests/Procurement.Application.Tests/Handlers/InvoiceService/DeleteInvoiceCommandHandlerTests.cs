@@ -30,7 +30,7 @@ namespace Procurement.Application.Tests.Handlers.InvoiceService
 
             _invoiceRepository
                 .Setup(r => r.GetByIdAsync(Id))
-                .ReturnsAsync((Invoice)null); // Mock the repository to return null
+                .ReturnsAsync((Invoice)null!); // Mock the repository to return null
 
             var handler = new DeleteInvoiceCommandHandler(_invoiceRepository.Object, _logger.Object);
 

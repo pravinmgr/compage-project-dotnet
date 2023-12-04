@@ -33,7 +33,7 @@ namespace Procurement.Application.Handlers.OrderService
 
             _mapper.Map(request, orderToUpdate, typeof(UpdateOrderCommand), typeof(Order));
             await _orderRepository.UpdateAsync(orderToUpdate);
-            _logger.LogInformation($"Order is successfully updated");
+            _logger.LogInformation("Order is successfully updated");
         }
 
     }
