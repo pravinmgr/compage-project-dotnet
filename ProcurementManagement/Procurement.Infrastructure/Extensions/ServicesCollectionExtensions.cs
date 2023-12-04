@@ -18,6 +18,8 @@ namespace Procurement.Infrastructure.Extensions
                 configuration.GetConnectionString("ProcurementConnectionString")));
             serviceCollection.AddScoped(typeof(IAsyncRepository<>), typeof(RepositoryBase<>));
             serviceCollection.AddScoped<IInvoiceRepository, InvoiceRepository>();
+            serviceCollection.AddScoped<IOrderRepository,OrderRepository>();
+
             return serviceCollection;
         }
     }

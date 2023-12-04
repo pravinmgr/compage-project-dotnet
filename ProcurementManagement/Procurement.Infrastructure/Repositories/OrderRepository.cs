@@ -5,12 +5,10 @@ using Procurement.Infrastructure.Data;
 namespace Procurement.Infrastructure.Repositories
 {
 
-    public class InvoiceRepository : RepositoryBase<Invoice>, IInvoiceRepository
+    public class OrderRepository : RepositoryBase<Order>, IOrderRepository
     {
-        public InvoiceRepository(ProcurementContext dbContext) : base(dbContext)
+        public OrderRepository(ProcurementContext dbContext) : base(dbContext)
         {
-        }      
+        }    
     }
-
-
 }
