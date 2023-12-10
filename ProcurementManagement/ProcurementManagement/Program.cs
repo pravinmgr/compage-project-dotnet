@@ -16,6 +16,12 @@ builder.Services.AddAutoMapper(typeof(ProcurementMappingProfile));
 builder.Services.AddApplicationServices();
 builder.Services.AddInfrastructureServices(builder.Configuration);
 /******************************************Profile Mapping **************************************************************/
+//OpenTelemetry
+const string serviceName = "Procurement";
+builder.Services.AddCustomOpenTelemetry(serviceName);
+builder.Logging.AddCustomOpenTelemetryLogging(serviceName);
+//Honeycomb
+builder.Services.AddHoneycomb(builder.Configuration);
 
 
 var app = builder.Build();
